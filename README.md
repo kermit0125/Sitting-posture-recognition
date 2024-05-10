@@ -1,0 +1,1 @@
+This project is a course project of CPS4893 of Wenzhou Kean University, and the project is named Sitting Posture Detection Analysis. This project is based on MediaPipe. Since I am the only one in charge of this project, there are some problems in the MVC format, but there is another withoutMVC code, and there is no problem
